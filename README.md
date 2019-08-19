@@ -1,2 +1,2 @@
-# Jeu-de-ds
-# Jeu-de-d-s
+# Jeu de dé
+
